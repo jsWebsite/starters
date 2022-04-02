@@ -1,0 +1,3 @@
+[submodule "vercel/blog-starter-kit"]
+	path = vercel/blog-starter-kit
+	url = https://github.com/jsWebsite/nextjs-portfolio-starter
