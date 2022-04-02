@@ -8,3 +8,6 @@
 [submodule "Eleventy/blog-template"]
 	path = Eleventy/blog-template
 	url = https://github.com/11ty/eleventy-base-blog.git
+[submodule "ButterCMS/nextjs-buttercms-starter"]
+	path = ButterCMS/nextjs-buttercms-starter
+	url = https://github.com/ButterCMS/nextjs-starter-buttercms.git
