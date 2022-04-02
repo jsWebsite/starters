@@ -1,3 +1,10 @@
 [submodule "vercel/blog-starter-kit"]
 	path = vercel/blog-starter-kit
 	url = https://github.com/jsWebsite/nextjs-portfolio-starter
+[submodule "hugo/netlifu-hugo-starter"]
+	path = hugo/netlifu-hugo-starter
+	url = https://github.com/jsWebsite/netlify-hugo-starter
+
+[submodule "Eleventy/blog-template"]
+	path = Eleventy/blog-template
+	url = https://github.com/11ty/eleventy-base-blog.git
