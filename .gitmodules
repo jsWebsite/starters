@@ -11,3 +11,9 @@
 [submodule "ButterCMS/nextjs-buttercms-starter"]
 	path = ButterCMS/nextjs-buttercms-starter
 	url = https://github.com/ButterCMS/nextjs-starter-buttercms.git
+[submodule "vercel/nextjs-buttercms-vercel"]
+	path = vercel/nextjs-buttercms-vercel
+	url = https://github.com/jsWebsite/nextjs-starter-buttercms.git
+[submodule "ButterCMS/nextjs-buttercms-template"]
+	path = ButterCMS/nextjs-buttercms-template
+	url = https://github.com/jsWebsite/nextjs-starter-buttercms.git
